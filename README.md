@@ -2,7 +2,6 @@
 <br>
 I have created a Java-based game called Hand Cricket that accurately replicates the traditional game that kids used to play in classrooms. Many people like playing the straightforward game of hand cricket, and my idea seeks to give participants a digital and interactive platform where they may recreate those memorable moments.
 <br>
-
 The Hand Cricket game project's main features include:
 <br>
 1. User-Friendly Interface: Players of all ages may easily enjoy the game thanks to its intuitive and user-friendly interface.
